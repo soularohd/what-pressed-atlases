@@ -1,0 +1,262 @@
+{
+  "name": "wiggle-is-you",
+  "version": 1,
+  "semver": "1.0.0",
+  "description": "A Baba Is You inspired atlas",
+  "author": "SoulAro",
+  "entries": [
+    {
+      "id": "f51c8c5c-5449-45bd-aa75-b05b76bfc3cc",
+      "input_id": {
+        "type": "Key",
+        "value": "KeyA"
+      },
+      "label": "A",
+      "pressed_image": "WiggleA_dn_34786bf0-9685-46ea-bc68-d514cb75300d.webp",
+      "unpressed_image": "WiggleA_up_44f81852-c2f6-4ab1-a54f-a80f9916835e.webp",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "id": "82b8f3c0-cb82-4568-83ed-9969d9048086",
+      "input_id": {
+        "type": "Key",
+        "value": "KeyD"
+      },
+      "label": "D",
+      "pressed_image": "WiggleD_dn_78b07883-9ed4-4b37-8800-3dc51d101e8e.webp",
+      "unpressed_image": "WiggleD_up_a868a812-de05-4726-a35d-85b8d13f03fa.webp",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "id": "9f0d22ec-46c3-41e0-9630-a70be38dfa57",
+      "input_id": {
+        "type": "Key",
+        "value": "DownArrow"
+      },
+      "label": "Down",
+      "pressed_image": "WiggleDown_dn_458aca9c-60a3-4645-97be-a89886e53863.webp",
+      "unpressed_image": "WiggleDown_up_89e306d1-6e50-454c-9f15-a936a3ea49a9.webp",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "id": "3718f7c7-aa54-41c3-882c-9d1cd6e6eb3e",
+      "input_id": {
+        "type": "Key",
+        "value": "Escape"
+      },
+      "label": "Esc",
+      "pressed_image": "WiggleEsc_dn_0e62dcde-5f66-4d02-b5c1-22bd2e0e7373.webp",
+      "unpressed_image": "WiggleEsc_up_dfda0819-c6a7-42a3-a6e0-15c81f35fcb1.webp",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "id": "ce309fb7-7890-4f41-b047-12e03dd872d4",
+      "input_id": {
+        "type": "Key",
+        "value": "LeftArrow"
+      },
+      "label": "Left",
+      "pressed_image": "WiggleLeft_dn_abb1fda2-9ac7-4f35-a280-1dd15c9c6408.webp",
+      "unpressed_image": "WiggleLeft_up_eb4878de-f775-446d-9f75-f003370c3224.webp",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "id": "f9792bb2-ac91-4174-adbc-f656b2f5d8c7",
+      "input_id": {
+        "type": "Key",
+        "value": "RightArrow"
+      },
+      "label": "Right",
+      "pressed_image": "WiggleRight_dn_afd3d985-dd77-44aa-8a5f-85c486788d23.webp",
+      "unpressed_image": "WiggleRight_up_3772631d-9bea-4d6a-95cf-c40c1ca9d6d1.webp",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "id": "f1f959c1-98cc-4fe3-affd-199b7fe0d1a2",
+      "input_id": {
+        "type": "Key",
+        "value": "KeyS"
+      },
+      "label": "S",
+      "pressed_image": "WiggleS_dn_6303447a-1371-4d70-92cc-76f542bef40a.webp",
+      "unpressed_image": "WiggleS_up_23684527-af4a-4765-8a38-11af04462d67.webp",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "id": "32f901fb-5cba-41c6-ac47-9c2bc5ef0d29",
+      "input_id": {
+        "type": "Key",
+        "value": "ShiftLeft"
+      },
+      "label": "Shift Small",
+      "pressed_image": "WiggleShift_dn_99e48f22-e3e9-48e6-a8ac-b0a47485e975.webp",
+      "unpressed_image": "WiggleShift_up_f05e3d7c-e8f5-4cbb-abae-872f9165eb77.webp",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "id": "0572955f-4f58-4e46-a33d-50986e2c8f34",
+      "input_id": {
+        "type": "Key",
+        "value": "ShiftLeft"
+      },
+      "label": "Shift Wide",
+      "pressed_image": "WiggleShiftWide_dn_5c4098ee-b98d-4ba1-b4e7-3609ee056e8a.webp",
+      "unpressed_image": "WiggleShiftWide_up_f19984ce-93fb-4172-814e-1899ccd3823f.webp",
+      "width": 144,
+      "height": 64
+    },
+    {
+      "id": "20384e4a-229c-43bb-842e-b1704f5457b8",
+      "input_id": {
+        "type": "Key",
+        "value": "Space"
+      },
+      "label": "Space Small",
+      "pressed_image": "WiggleSpace_dn_7827cee6-3f89-4444-b7e7-a73fd5c37dc5.webp",
+      "unpressed_image": "WiggleSpace_up_6f7b7de0-38d4-46b0-b73e-d73df20e89b5.webp",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "id": "763146e8-c7cc-43d6-ba7f-48c2a2d0e009",
+      "input_id": {
+        "type": "Key",
+        "value": "Space"
+      },
+      "label": "Space Wide",
+      "pressed_image": "WiggleSpaceWide_dn_50247e01-4dbb-475a-9cdd-a991d717cc5e.webp",
+      "unpressed_image": "WiggleSpaceWide_up_0c6022ed-9682-4b38-9615-823e636553f3.webp",
+      "width": 144,
+      "height": 64
+    },
+    {
+      "id": "09aab137-056f-4974-9d40-687ac16c57bb",
+      "input_id": {
+        "type": "Key",
+        "value": "UpArrow"
+      },
+      "label": "Up",
+      "pressed_image": "WiggleUp_dn_5e74745a-3121-4de3-8b1b-0dcabd793a0f.webp",
+      "unpressed_image": "WiggleUp_up_650f8a1d-7c39-44bb-b89f-ae9a3e284640.webp",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "id": "1a8dbae8-304e-4c0c-a372-733a4aa2a8d9",
+      "input_id": {
+        "type": "Key",
+        "value": "KeyW"
+      },
+      "label": "W",
+      "pressed_image": "WiggleW_dn_89c239e9-f220-4cc3-b111-d49870de6e26.webp",
+      "unpressed_image": "WiggleW_up_67e548fd-486a-4fb6-9c3a-ed5012e6dde1.webp",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "id": "36e413d6-a4b6-4fee-bf2f-09d3660301b0",
+      "input_id": {
+        "type": "Key",
+        "value": "KeyX"
+      },
+      "label": "X",
+      "pressed_image": "WiggleX_dn_f5c8b3bf-4802-4206-a6e9-cb4f70fab62f.webp",
+      "unpressed_image": "WiggleX_up_6a9a056d-6235-4b1a-a68e-ea3a1bc2659e.webp",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "id": "6abc1bed-d1b4-42da-84db-a2de4701fec0",
+      "input_id": {
+        "type": "Key",
+        "value": "KeyZ"
+      },
+      "label": "Z",
+      "pressed_image": "WiggleZ_dn_661e18b7-715d-48de-b18d-e1c7672e8189.webp",
+      "unpressed_image": "WiggleZ_up_8fe00c30-c9ee-4e5e-853f-259fe7c4f549.webp",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "id": "b036cbf7-904b-47fa-a6a9-f92e8bdd8829",
+      "input_id": {
+        "type": "Key",
+        "value": "KeyS"
+      },
+      "label": "Bomb",
+      "pressed_image": "WiggleBomb_dn_f59fe9f6-8861-40ba-88da-7c0da5ad6286.webp",
+      "unpressed_image": "WiggleBomb_up_48adac79-0b07-4186-94fa-b393cea2dd92.webp",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "id": "15473fad-5a72-4425-90c3-9ec82ab913fd",
+      "input_id": {
+        "type": "Key",
+        "value": "Space"
+      },
+      "label": "Door",
+      "pressed_image": "WiggleDoor_dn_71980ddc-4ae8-433a-bc91-4554e0660412.webp",
+      "unpressed_image": "WiggleDoor_up_25e461a2-68f4-4348-aff2-e7b6331d78c9.webp",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "id": "f8807ef3-b2e8-4de6-bff5-5b741e16c84b",
+      "input_id": {
+        "type": "Key",
+        "value": "KeyZ"
+      },
+      "label": "Jump",
+      "pressed_image": "WiggleJump_dn_85d30607-55f6-4842-9340-b88e65234be8.webp",
+      "unpressed_image": "WiggleJump_up_8a2bdbd2-36ce-4058-862a-28c91ce01a79.webp",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "id": "74f1b64c-1814-4216-ac0c-6b802203018f",
+      "input_id": {
+        "type": "Key",
+        "value": "KeyA"
+      },
+      "label": "Rope",
+      "pressed_image": "WiggleRope_dn_137f753d-d772-462c-afba-96e00bb556c7.webp",
+      "unpressed_image": "WiggleRope_up_bad9a809-2038-41a8-9da3-e0da591d6bee.webp",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "id": "f7cf01a3-4990-4eaa-a464-c8038d8af6a1",
+      "input_id": {
+        "type": "Key",
+        "value": "ShiftLeft"
+      },
+      "label": "Run",
+      "pressed_image": "WiggleRun_dn_e807e02f-9b14-4d34-9190-8a087c46f382.webp",
+      "unpressed_image": "WiggleRun_up_2563d1dd-8679-4f78-a95a-288eb84d7767.webp",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "id": "0410476e-2705-4922-b4dd-e5c4cca6bb51",
+      "input_id": {
+        "type": "Key",
+        "value": "KeyX"
+      },
+      "label": "Whip",
+      "pressed_image": "WiggleWhip_dn_f70a4a58-09e9-478a-b8ff-ae7c468179ed.webp",
+      "unpressed_image": "WiggleWhip_up_9d839e4f-b929-423a-baaa-c6f34631b887.webp",
+      "width": 64,
+      "height": 64
+    }
+  ],
+  "source_images": []
+}
